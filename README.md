@@ -1,5 +1,4 @@
 ### Welcome to Banjoko Kazeem's GitHub Profile.
-
 #### 💬 About me:
 I am a self taught full stack engineer, an excellent team player with a positive attitude and also a
 result-oriented software engineer with keen interest in building secure and robust enterprise
@@ -7,8 +6,14 @@ applications. Seeking a role in an environment that will avail me the opportunit
 solving global challenges and also play a part in my local ecosystem.
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/kazmanbanj)
+<details>
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
+</details>
+<br>
+<hr>
 
+![Profile views](https://gpvc.arturio.dev/kazmanbanj)
 <hr>
 
 📫 How to reach me:<br><br>
@@ -19,27 +24,20 @@ solving global challenges and also play a part in my local ecosystem.
 <a href="http://www.linkedin.com/in/kazeem-banjoko-3a0849189"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&flat-square&logo=linkedin&logoColor=white" /></a>
 <br>
 <a href="https://stackoverflow.com/users/12760602/banjoko-kazeem"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&flat-square" />
-  <br>
-  <a href="https://github.com/kazmanbanj"><img src="https://img.shields.io/badge/github-%23100000.svg?&flat-square&logo=github&logoColor=white" /></a>
+<br>  
+<a href="https://github.com/kazmanbanj"><img src="https://img.shields.io/badge/github-%23100000.svg?&flat-square&logo=github&logoColor=white" /></a>
 <hr>
  
 <details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
-</details>
-<br>
-<hr>
- 
-<details>
-  <summary>📃 My Resume</summary>
-  <h2>Education</h2>
-  <ul>
-    <li>
-      📖 <b>Certificate in Web/Software Development</b><br>
-      📆 2020<br>
-      📍    <b>FofX</b> - <span style="font-size: 10px">Lagos, Nigeria</span>
-     </li>
-  </ul>
+<summary>📃 My Resume</summary>
+<h2>Education</h2>
+<ul>
+  <li>
+    📖 <b>Certificate in Web/Software Development</b><br>
+    📆 2020<br>
+    📍    <b>FofX</b> - <span style="font-size: 10px">Lagos, Nigeria</span>
+   </li>
+</ul>
     
 <h2>Experience</h2>
 <ul>
@@ -57,7 +55,7 @@ solving global challenges and also play a part in my local ecosystem.
           <img src="https://img.shields.io/badge/mysql-%2300f.svg?&flat-square&logo=mysql&logoColor=white" />
     <br>
     📆 Jan ~ May 2020<br>
-    📍    <b>FofX</b> - Lagos, Nigeria
+    📍  <b>FofX</b> - Lagos, Nigeria
   </li>
   <br>
   <li>
@@ -71,7 +69,7 @@ solving global challenges and also play a part in my local ecosystem.
            <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&flat-square&logo=jquery&logoColor=white" />  
     <br>
     📆 Feb 2019 ~ Till date<br>
-    📍    <b>I-Create Technology</b> - Lagos, Nigeria
+    📍  <b>I-Create Technology</b> - Lagos, Nigeria
   </li>
 <ul>
 </details>
