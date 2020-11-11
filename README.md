@@ -3,9 +3,9 @@
   <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
 </details>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kazmanbanjoko?color=1DA1F2&logo=Twitter&logoColor=1DA1F2&style=social&hide_border=true)
-
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/kazmanbanjoko?color=1DA1F2&logo=Twitter&logoColor=1DA1F2&style=social&hide_border=true)
 
 <!--
 **kazmanbanj/kazmanbanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
