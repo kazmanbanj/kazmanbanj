@@ -3,6 +3,8 @@
   <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true" />
 </details>
 
+![Profile views](https://gpvc.arturio.dev/kazmanbanj)
+
 <!--
 **kazmanbanj/kazmanbanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
