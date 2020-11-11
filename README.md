@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true" />
