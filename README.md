@@ -67,7 +67,7 @@ solving global challenges and also play a part in my local ecosystem.
            <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&flat-square&logo=python&logoColor=white" />
            <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&flat-square&logo=jquery&logoColor=white" />  
     <br>
-    📆 Feb 2019 – Till date<br>
+    📆 Feb 2019 ~ Till date<br>
     📍    <b>I-Create Technology</b> - Lagos, Nigeria
   </li>
 <ul>
