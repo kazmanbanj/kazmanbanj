@@ -13,7 +13,8 @@ solving global challenges and also play a part in my local ecosystem.
 </details>
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/kazmanbanj)
+<div>
+</div>
 <hr>
 
 📫 How to reach me:<br><br>
