@@ -7,13 +7,6 @@ applications. Seeking a role in an environment that will avail me the opportunit
 solving global challenges and also play a part in my local ecosystem.
 <hr>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
-</details>
-<br>
-<hr>
-
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
 
 <hr>
@@ -29,6 +22,14 @@ solving global challenges and also play a part in my local ecosystem.
   <br>
   <a href="https://github.com/kazmanbanj"><img src="https://img.shields.io/badge/github-%23100000.svg?&flat-square&logo=github&logoColor=white" /></a>
 <hr>
+ 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
+</details>
+<br>
+<hr>
+ 
 <details>
   <summary>📃 My Resume</summary>
   <h2>Education</h2>
