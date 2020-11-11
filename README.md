@@ -26,7 +26,7 @@ solving global challenges and also play a part in my local ecosystem.
 <a href="https://stackoverflow.com/users/12760602/banjoko-kazeem"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&flat-square" />
   <br>
   <a href="https://github.com/kazmanbanj"><img src="https://img.shields.io/badge/github-%23100000.svg?&flat-square&logo=github&logoColor=white" /></a>
-
+<hr>
 <details>
   <summary>📃 My Resume</summary>
   <h2>Education</h2>
