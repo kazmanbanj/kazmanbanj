@@ -11,11 +11,11 @@ solving global challenges and also play a part in my local ecosystem.
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
 </details>
+<br>
 <hr>
 
-<div>  
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
-</div>
+
 <hr>
 
 📫 How to reach me:<br><br>
