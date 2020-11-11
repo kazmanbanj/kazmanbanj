@@ -14,10 +14,6 @@ solving global challenges and also play a part in my local ecosystem.
 <hr>
 
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
-<hr>
-
-📫 How to reach me:<br><br>
-![Twitter Follow](https://img.shields.io/twitter/follow/kazmanbanjoko?color=1DA1F2&logo=Twitter&logoColor=1DA1F2&style=social&hide_border=true)
 
 <!--
 **kazmanbanj/kazmanbanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
