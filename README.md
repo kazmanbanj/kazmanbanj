@@ -1,11 +1,10 @@
-<div style="border: 2px solid gray">
-  Welcome to Banjoko Kazeem's GitHub Profile.
+# Welcome to Banjoko Kazeem's GitHub Profile.
 
-  I am a self taught full stack engineer, an excellent team player with a positive attitude and also a
-  result-oriented software engineer with keen interest in building secure and robust enterprise
-  applications. Seeking a role in an environment that will avail me the opportunity to work on
-  solving global challenges and also play a part in my local ecosystem.
-</div>
+💬 About me:
+I am a self taught full stack engineer, an excellent team player with a positive attitude and also a
+result-oriented software engineer with keen interest in building secure and robust enterprise
+applications. Seeking a role in an environment that will avail me the opportunity to work on
+solving global challenges and also play a part in my local ecosystem.
 
 <details>
   <summary>:zap: Github Stats</summary>
