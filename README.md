@@ -3,6 +3,8 @@
   <img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
 </details>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/kazmanbanjoko?color=1DA1F2&logo=Twitter&logoColor=1DA1F2&style=social&hide_border=true)
+
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
 
 <!--
