@@ -44,7 +44,6 @@ solving global challenges and also play a part in my local ecosystem.
           <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&flat-square&logo=javascript&logoColor=black" />  
           <img src="https://img.shields.io/badge/php-%23777BB4.svg?&flat-square&logo=php&logoColor=white" />  
           <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&flat-square&logo=vue.js&logoColor=%234FC08D" />  
-    	    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&flat-square&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/postgres-%23316192.svg?&flat-square&logo=postgresql&logoColor=white" /> 
           <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&flat-square&logo=laravel&logoColor=white" />  
           <img src="https://img.shields.io/badge/mysql-%2300f.svg?&flat-square&logo=mysql&logoColor=white" />
