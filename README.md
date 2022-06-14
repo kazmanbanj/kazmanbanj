@@ -68,10 +68,16 @@ applications.
 </details>
 <hr>
  
+<details>
+<summary>:zap: Github Profile Trophy</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazmanbanj&theme=radical&margin-w=15&no-frame=true)](https://github.com/kazmanbanj/github-profile-trophy)
+</details>
 <hr>
  
+<details>
+<summary>:zap: Github Activity Graph</summary>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kazmanbanj)](https://github.com/kazmanbanj/github-readme-activity-graph)
+</details>
 
 <!--
 **kazmanbanj/kazmanbanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
