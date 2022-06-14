@@ -66,8 +66,10 @@ applications.
   </li>
 <ul>
 </details>
+<hr>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazmanbanj&theme=radical&margin-w=15&no-frame=true)](https://github.com/kazmanbanj/github-profile-trophy)
+<hr>
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kazmanbanj)](https://github.com/kazmanbanj/github-readme-activity-graph)
 
