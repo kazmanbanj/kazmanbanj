@@ -68,9 +68,6 @@ applications.
 </details>
  
 [![trophy](https://github-profile-trophy.vercel.app/kazmanbanj=ryo-ma&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
- 
-<script src="https://unpkg.com/@codersrank/skills-chart@0.9.21/codersrank-skills-chart.min.js"></script>
-<codersrank-skills-chart username="kazmanbanj"></codersrank-skills-chart>
 
 <!--
 **kazmanbanj/kazmanbanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
