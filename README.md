@@ -22,8 +22,6 @@ applications.
  <a href="https://github.com/kazmanbanj"><img src="https://img.shields.io/badge/github-%23100000.svg?&flat-square&logo=github&logoColor=white" /></a>
 <hr>
  
- [![trophy](https://github-profile-trophy.vercel.app/kazmanbanj=ryo-ma&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
- 
 <details>
 <summary>📃 My Resume</summary>
 <h2>Education</h2>
