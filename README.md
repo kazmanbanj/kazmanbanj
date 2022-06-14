@@ -69,13 +69,13 @@ applications.
 <hr>
  
 <details>
-<summary>:zap: Github Profile Trophy</summary>
+<summary>Github Profile Trophy</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazmanbanj&theme=radical&margin-w=15&no-frame=true)](https://github.com/kazmanbanj/github-profile-trophy)
 </details>
 <hr>
  
 <details>
-<summary>:zap: Github Activity Graph</summary>
+<summary>Github Activity Graph</summary>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kazmanbanj)](https://github.com/kazmanbanj/github-readme-activity-graph)
 </details>
 
