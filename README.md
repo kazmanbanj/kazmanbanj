@@ -14,7 +14,7 @@ applications.
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
 <hr>
 
-📫 How to reach me:<br>
+📫 Reach me via:<br>
 <a href="https://twitter.com/kazmanbanjoko"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://m.facebook.com/KazmanBanjoko"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&flat-square&logo=facebook&logoColor=white" /></a>
 <a href="http://www.linkedin.com/in/kazeem-banjoko-3a0849189"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&flat-square&logo=linkedin&logoColor=white" /></a>
