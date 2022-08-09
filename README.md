@@ -64,6 +64,23 @@ applications.
     📆 Feb 2019 ~ Till date<br>
     📍  <b>I-Create Technology</b> - Lagos, Nigeria
   </li>
+  <br>
+  <li>
+    👨‍💻 <b>Backend Developer</b>
+           <img src="https://img.shields.io/badge/slack-%234A154B.svg?&flat-square&logo=slack&logoColor=white" />  
+           <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&flat-square&logo=html5&logoColor=white" />  
+           <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&flat-square&logo=css3&logoColor=white" />  
+           <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&flat-square&logo=javascript&logoColor=black" />  
+           <img src="https://img.shields.io/badge/php-%23777BB4.svg?&flat-square&logo=php&logoColor=white" /> 
+           <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&flat-square" />
+           <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&flat-square&logo=bootstrap&logoColor=white" />  
+           <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&flat-square&logo=jquery&logoColor=white" />
+           <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&flat-square&logo=laravel&logoColor=white" />  
+           <img src="https://img.shields.io/badge/mysql-%2300f.svg?&flat-square&logo=mysql&logoColor=white" />
+    <br>
+    📆 Feb 2021 ~ Till date<br>
+    📍  <b>SeamlessHR</b> - Lagos, Nigeria
+  </li>
 <ul>
 </details>
 <hr>
