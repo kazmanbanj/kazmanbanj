@@ -29,7 +29,7 @@ applications.
   <li>
     📖 <b>Certificate in Web/Software Development</b><br>
     📆 2020<br>
-    📍    <b>FofX</b> - <span style="font-size: 10px">Lagos, Nigeria</span>
+    📍    <b>FofX</b> - <span style="font-size: 10px">Lagos, Nigeria.</span>
    </li>
 </ul>
     
@@ -48,7 +48,7 @@ applications.
           <img src="https://img.shields.io/badge/mysql-%2300f.svg?&flat-square&logo=mysql&logoColor=white" />
     <br>
     📆 Jan ~ May 2020<br>
-    📍  <b>FofX</b> - Lagos, Nigeria
+    📍  <b>FofX</b> - Lagos, Nigeria.
   </li>
   <br>
   <li>
@@ -62,7 +62,7 @@ applications.
            <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&flat-square&logo=jquery&logoColor=white" />  
     <br>
     📆 Feb 2019 ~ Till date<br>
-    📍  <b>I-Create Technology</b> - Lagos, Nigeria
+    📍  <b>I-Create Technology</b> - Lagos, Nigeria.
   </li>
   <br>
   <li>
@@ -79,7 +79,7 @@ applications.
            <img src="https://img.shields.io/badge/mysql-%2300f.svg?&flat-square&logo=mysql&logoColor=white" />
     <br>
     📆 Feb 2021 ~ Till date<br>
-    📍  <b>SeamlessHR</b> - Lagos, Nigeria
+    📍  <b>SeamlessHR</b> - Lagos, Nigeria.
   </li>
 <ul>
 </details>
