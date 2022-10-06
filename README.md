@@ -12,7 +12,6 @@ applications.
 <hr>
 
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
-![Profile views](https://komarev.com/ghpvc/?username=kazmanbanj&style=flat-square)
 <hr>
 
 📫 Reach me via:<br>
