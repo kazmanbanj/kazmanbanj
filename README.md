@@ -69,12 +69,12 @@ applications.
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazmanbanj&theme=radical&margin-w=15&no-frame=true)](https://github.com/kazmanbanj/github-profile-trophy)
-<hr>
+<!-- <hr>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kazmanbanj)](https://github.com/kazmanbanj/github-readme-activity-graph)
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazmanbanj&layout=compact&langs_count=10&hide=python,powershell,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazmanbanj&layout=compact&langs_count=10&hide=python,powershell,shell)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **kazmanbanj/kazmanbanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
