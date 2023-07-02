@@ -11,8 +11,10 @@ applications.
 </details>
 <hr>
 
+<!--
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
 <hr>
+-->
 
 📫 Reach me via:<br>
 <a href="https://twitter.com/kazmanbanjoko"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&flat-square&logo=twitter&logoColor=white" /></a>
