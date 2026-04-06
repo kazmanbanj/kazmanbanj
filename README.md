@@ -5,12 +5,6 @@ result-oriented software engineer with keen interest in building secure and robu
 applications.
 <hr>
 
-<details>
-<summary>:zap: Github Stats</summary>
-<img align="left" alt="kazmanbanj Github stats" src="https://github-readme-stats.kazmanbanj.vercel.app/api?username=kazmanbanj&show_icons=true&hide_border=true&theme=synthwave" />
-</details>
-<hr>
-
 <!--
 ![Profile views](https://gpvc.arturio.dev/kazmanbanj)
 <hr>
@@ -23,11 +17,6 @@ applications.
 <a href="https://stackoverflow.com/users/12760602/banjoko-kazeem"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&flat-square" />
  <a href="https://github.com/kazmanbanj"><img src="https://img.shields.io/badge/github-%23100000.svg?&flat-square&logo=github&logoColor=white" /></a>
 <hr>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kazmanbanj)](https://github.com/kazmanbanj/github-readme-activity-graph)
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazmanbanj&layout=compact&langs_count=10&hide=python,powershell,shell)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **kazmanbanj/kazmanbanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
