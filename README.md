@@ -23,10 +23,6 @@ applications.
 <a href="https://stackoverflow.com/users/12760602/banjoko-kazeem"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&flat-square" />
  <a href="https://github.com/kazmanbanj"><img src="https://img.shields.io/badge/github-%23100000.svg?&flat-square&logo=github&logoColor=white" /></a>
 <hr>
- 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazmanbanj&theme=radical&margin-w=15&no-frame=true)](https://github.com/kazmanbanj/github-profile-trophy)
-<!-- <hr>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kazmanbanj)](https://github.com/kazmanbanj/github-readme-activity-graph)
 <hr>
